@@ -1,8 +1,8 @@
-# Video Player App
+# Book List App
 
-Play videos and displays a short list of additional videos related to a user-provided search term.
-* You-Tube API integration
-* Controlled field (form) elements
-* Basic intro to react state, components, and ES6 syntax
+Displays a list of book titles. User can click to get more details.
+* App is divided between data and views
+* Use of containers, actions, and reducers
+* Basic intro to redux application level state, and the react-redux library
 
 A hand-typed react + redux app with boilerplate code + instruction provided by Stephen Grider in his amazing Udemy course, Modern React with Redux.
